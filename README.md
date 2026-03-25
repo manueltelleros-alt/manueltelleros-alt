@@ -19,7 +19,24 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
 </p>
 
 ---
