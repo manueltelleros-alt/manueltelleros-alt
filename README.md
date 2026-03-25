@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="background: linear-gradient(90deg,#22C55E,#06B6D4); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Manuel Telleros
+    Hi 👋, I'm Buddy 
   </span>
 </h1>
 
@@ -76,9 +76,6 @@
 ---
 
 ## 🧠 Quote I Like
-> “First, solve the problem. Then, write the code.” – buddy T.
-
----
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNwY3ZpdTF1NG55M2d3cGVwYmJzYnhlNzNkemFpaGZoZW1mbzg4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="500"/>
