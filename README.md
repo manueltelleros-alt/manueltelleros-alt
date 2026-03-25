@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Manuel Telleros</h1>
-<h3 align="center">💻 BSIS Student | Aspiring Developer</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#22C55E,#06B6D4); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm Manuel Telleros
+  </span>
+</h1>
+
+<h3 align="center">
+  💻 BSIS Student | 🚀 Aspiring Developer
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Aspiring+Full-Stack+Developer;Building+Smart+Systems;Next.js+Learner" />
