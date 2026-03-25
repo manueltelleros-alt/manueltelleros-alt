@@ -58,7 +58,15 @@
 
 ## 🌱 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,mongodb" />
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
 
 ---
