@@ -49,11 +49,19 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="160em" style="box-shadow:0 4px 15px rgba(0,0,0,0.4); border-radius:12px;" src="https://github-readme-stats.vercel.app/api?username=manueltelleros-alt&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" style="box-shadow:0 4px 15px rgba(0,0,0,0.4); border-radius:12px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueltelleros-alt&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=manueltelleros-alt&show_icons=true&theme=tokyonight&hide_border=true"
+    style="border-radius:12px; margin:5px;"
+  />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manueltelleros-alt&layout=compact&theme=tokyonight&hide_border=true"
+    style="border-radius:12px; margin:5px;"
+  />
+</p>
 ---
 
 ## 🌱 Currently Learning
